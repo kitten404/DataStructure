@@ -12,4 +12,6 @@ Estrutura de dados
 </br>
 -> Graph/Grafo
 </br>
-![Screenshot](https://user-images.githubusercontent.com/31549957/193176139-5f206e79-ee11-44e7-8921-ec38889ff23a.jpg)
+<p>
+  <img src="https://user-images.githubusercontent.com/31549957/193176139-5f206e79-ee11-44e7-8921-ec38889ff23a.jpg" width="550" title="hover text">
+</p>
