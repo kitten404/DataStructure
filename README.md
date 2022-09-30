@@ -5,6 +5,9 @@ Estrutura de dados
 -> List/Lista
 </br>
 -> Queue/Fila
+    In queues, elements are stored and accessed in First In, First Out manner.
+    That is, elements are added from the behind and removed from the front.
+
 </br>
 -> Linked List/Lista Ligada
 </br>
